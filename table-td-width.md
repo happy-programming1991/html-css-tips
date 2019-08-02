@@ -18,4 +18,4 @@
  }
 ```
 
-##### 参考文章["Fixed Table Layouts"](https://css-tricks.com/fixing-tables-long-strings/)
+##### 参考文章["Fixed Table Layouts"](https://css-tricks.com/fixing-tables-long-strings/) [MDN "table-layout"](https://developer.mozilla.org/zh-CN/docs/Web/CSS/table-layout)
