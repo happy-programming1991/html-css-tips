@@ -10,7 +10,7 @@
     width: 20px;
   }
 ```
-### 方案二（设置td display属性）
+#### 方案二（设置td display属性）
 ``` css
  td {
    display: inline-block;
@@ -18,4 +18,4 @@
  }
 ```
 
-#### 参考文章["Fixed Table Layouts"](https://css-tricks.com/fixing-tables-long-strings/)
+##### 参考文章["Fixed Table Layouts"](https://css-tricks.com/fixing-tables-long-strings/)
