@@ -1,4 +1,4 @@
-### table 的 td 的宽度会受table的宽度、td中所包含文本的宽度影响。
+### 默认table、td 的宽度会由table、td包含内容决定。
 #### 方案一（固定table宽度、td宽度）：
 ``` css
   table {
