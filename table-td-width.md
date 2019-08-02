@@ -2,7 +2,7 @@
 #### 方案一(固定table宽度、td宽度)：
 ``` css
   table {
-    table-layout: fixed;
+    table-layout: fixed; // defalut value is auto
     width: 100px;
   }
   
