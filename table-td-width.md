@@ -1,5 +1,5 @@
 ### table 的 td 的宽度会受table的宽度、td中所包含文本的宽度影响。
-#### 方案一(固定table宽度、td宽度)：
+#### 方案一（固定table宽度、td宽度）：
 ``` css
   table {
     table-layout: fixed; // defalut value is auto
@@ -10,7 +10,7 @@
     width: 20px;
   }
 ```
-#### 方案二（设置td display属性）
+#### 方案二（设置td display属性）：
 ``` css
  td {
    display: inline-block;
